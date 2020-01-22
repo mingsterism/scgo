@@ -5,5 +5,5 @@ provider:
 functions:
   scgo:
     lang: golang-http
-    handler: ./main
+    handler: ./function
     image: scgo:latest

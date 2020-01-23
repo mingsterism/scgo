@@ -6,4 +6,4 @@ functions:
   scgo:
     lang: golang-http
     handler: ./function
-    image: scgo:latest
+    image: scgo1:latest
